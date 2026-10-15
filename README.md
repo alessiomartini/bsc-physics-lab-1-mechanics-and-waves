@@ -128,7 +128,7 @@ A separate measurement using square waves provides an independent check.
 
 ## Related repository
 
-- [`physics-lab-2-circuits-and-optics-unimib`](https://github.com/alessiomartini/physics-lab-2-circuits-and-optics-unimib)
+- [`bsc-physics-lab-2-circuits-and-optics`](https://github.com/alessiomartini/bsc-physics-lab-2-circuits-and-optics)
   — the second-year laboratory course: six reports on circuits (Ohm's law and
   diodes, RC/RL/RLC transients, resonance) and on waves and optics
   (interferometry, microwaves, spectrometry).
